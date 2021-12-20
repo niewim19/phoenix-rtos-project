@@ -21,7 +21,7 @@
 	url = https://github.com/phoenix-rtos/phoenix-rtos-usb
 [submodule "phoenix-rtos-lwip"]
 	path = phoenix-rtos-lwip
-	url = https://github.com/phoenix-rtos/phoenix-rtos-lwip
+	url = https://github.com/niewim19/phoenix-rtos-lwip
 [submodule "phoenix-rtos-posixsrv"]
 	path = phoenix-rtos-posixsrv
 	url = https://github.com/phoenix-rtos/phoenix-rtos-posixsrv
